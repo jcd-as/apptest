@@ -1,2 +1,2 @@
 # apptest
-test of GitHub app
+Test of GitHub app
