@@ -10,3 +10,4 @@ TODO:
     - connect to mongodb and validate issues exist
 - on push iterate over commits & create ergs for them
 
+GARBAGE:
