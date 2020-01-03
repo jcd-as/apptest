@@ -14,5 +14,3 @@ GARBAGE:
 foo
 
 bar
-
-junk bonds
