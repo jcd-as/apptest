@@ -12,4 +12,3 @@ TODO:
 
 GARBAGE:
 foo
-bar
