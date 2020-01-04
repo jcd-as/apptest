@@ -14,3 +14,5 @@ GARBAGE:
 foo
 
 bar
+
+none
