@@ -1,4 +1,5 @@
 {
-    "requiredTeams": ["a-team"]
+    "requiredTeams": ["a-team"],
+    "foo": "bar"
 }
 
